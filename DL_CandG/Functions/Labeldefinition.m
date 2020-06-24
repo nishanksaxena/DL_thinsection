@@ -1,0 +1,2 @@
+classes10class = ["Porosity";"Quartzundiff";"FeldsparUndiff";"RockFragmentsUndiff";"CarbonateGrainFossil";"OpaqueGrains";"QuartzCement";"Carbonateundiff";"ClayCementpf";"HCpf"];
+classeslabelIDs10class = [2;4;6;8;10;12;14;16;18;20];
